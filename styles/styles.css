@@ -9,13 +9,19 @@ body {
 .button {
   border: 1px solid black;
   border-radius: 0.5em;
+  color: black;
   display: inline-block;
   margin: 0 0.5em 0.5em 0;
   padding: 0.5em;
+  text-decoration: none;
 }
 
-.button {
-  background: gray;
+.button:hover {
+  background: black;
   color : white;
-  text-decoration: none;
+}
+
+.poem-text {
+  font-size: 1.25em;
+  margin: 2em 0;
 }
