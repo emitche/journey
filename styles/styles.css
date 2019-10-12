@@ -1,0 +1,21 @@
+body {
+  margin: 3em;
+}
+
+.button-block {
+  display: block;
+}
+
+.button {
+  border: 1px solid black;
+  border-radius: 0.5em;
+  display: inline-block;
+  margin: 0 0.5em 0.5em 0;
+  padding: 0.5em;
+}
+
+.button {
+  background: gray;
+  color : white;
+  text-decoration: none;
+}
