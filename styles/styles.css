@@ -25,3 +25,16 @@ body {
   font-size: 1.25em;
   margin: 2em 0;
 }
+
+.intro-page img {
+  margin-top: 2em;
+  max-width: 25em;
+}
+
+.intro-page .button-block {
+  margin-top: 2em;
+}
+
+h2 {
+  font-size: 125%;
+}
