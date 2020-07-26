@@ -24,8 +24,8 @@ body {
 
 .button:hover,
 .button.primary-btn:hover {
-  background: rgb(0, 102, 204);
-  border-color: rgb(0, 102, 204);
+  background: rgb(0, 82, 130);
+  border-color: rgb(0, 82, 130);
   color: white;
 }
 
@@ -44,5 +44,6 @@ body {
 }
 
 h2 {
-  font-size: 125%;
+  font-size: 115%;
+  margin-top: 3em;
 }
