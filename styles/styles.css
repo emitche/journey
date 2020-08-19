@@ -37,7 +37,7 @@ body {
 
 .intro-page img {
   margin-top: 2em;
-  max-width: 25em;
+  max-width: 100%;
 }
 
 .intro-page .button-block {
