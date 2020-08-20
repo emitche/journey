@@ -31,13 +31,14 @@ body {
 }
 
 .poem-text {
-  font-size: 1.25em;
+  font-size: 1.1em;
   margin: 2em 0;
 }
 
 .intro-page img {
   margin-top: 2em;
-  max-width: 100%;
+  max-width: 25rem;
+  width: 100%;
 }
 
 .intro-page .button-block {
